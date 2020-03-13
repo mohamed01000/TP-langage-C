@@ -1,4 +1,4 @@
-// Mon premier Fichier en C 
+// Mon premier fichier en C 
 // 
 // 
 #include <stdio.h>
@@ -10,3 +10,4 @@ int main(void)
 
 }
 
+// reste a faire une fonction 
